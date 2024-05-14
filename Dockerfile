@@ -1,7 +1,7 @@
 # Full 4.3 Gb
-# FROM qmcgaw/latexdevcontainer:latest-full
+FROM qmcgaw/latexdevcontainer:latest-full
 # Slim 0.3 Gb
-FROM qmcgaw/latexdevcontainer:latest
+# FROM qmcgaw/latexdevcontainer:latest
 
 
 # Installations
